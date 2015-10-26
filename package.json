@@ -1,7 +1,7 @@
 {
   "name": "bkmrklt",
   "description": "Create bookmarklets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Peter Hancock <peter.hancock@gmail.com> (https://peterhancock.github.io)",
   "repository": {
