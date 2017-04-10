@@ -1,7 +1,7 @@
 {
   "name": "bkmrklt",
   "description": "Create bookmarklets",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Peter Hancock <peter.hancock@gmail.com> (https://peterhancock.github.io)",
   "repository": {
@@ -10,9 +10,8 @@
   "bin": "cmd.js",
   "dependencies": {
     "concat-stream": "^1.5.1",
-    "dustjs-linkedin": "^2.7.2",
-    "opn": "^3.0.2",
-    "rc": "^1.1.2",
+    "minimist": "^1.2.0",
+    "node-clipboard": "^1.2.0",
     "uglify-js": "^2.5.0"
   }
 }

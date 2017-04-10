@@ -1,10 +1,14 @@
+# bkmrklt
+
+Create and share bookmarklets 
+
+
 ## usage
 ```
- bkmrklt  bookmarklet.js --name my-bookmarklet
+ bkmrklt  bookmarklet.js --link my-bookmarklet
 ```
 
-
-## install 
+## install
 ```
 npm i -g bkmrklt
 
